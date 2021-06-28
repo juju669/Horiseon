@@ -18,10 +18,8 @@ DETAILS:
 
 ABOUT:
 
+![image](https://user-images.githubusercontent.com/58565920/123579267-8ec84f80-d7a5-11eb-8d38-1d54c6a438fa.png)
 
-
-￼￼
-￼
 WEBSITE:
 
 Github: https://github.com/juju669/Horiseongit
