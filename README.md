@@ -17,6 +17,10 @@ DETAILS:
 -Added alt tags next to images
 
 ABOUT:
+
+
+
+￼￼
 ￼
 WEBSITE:
 
